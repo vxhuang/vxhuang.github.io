@@ -58,13 +58,13 @@
     float: left;
     width: 34%;
     max-width: 135px;
-    margin: 6px 18px 10px 0;
+    margin: 6px 18px 8px 0;
   }
 
   .profile-photo img {
     width: 100%;
     height: auto;
-    margin-top: 10px;
+    margin-top: 8px;
     display: block;
   }
 
