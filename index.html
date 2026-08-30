@@ -192,7 +192,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="beyond-research" class="level2">
 <h2 class="anchored" data-anchor-id="beyond-research">Beyond Research</h2>
-<p>Outside of work, I enjoy classical music, road trips, and card games.</p>
+<p>Outside of work, I enjoy classical music, road trips, and some card games.</p>
 <p>I am married to <a href="https://www.ziyaotian.com">Ziyao Tian</a>, a sociologist studying education, inequality, and social stratification.</p>
 
 
@@ -272,7 +272,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/vxhuang\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
