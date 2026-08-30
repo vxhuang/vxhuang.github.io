@@ -1,0 +1,30 @@
+.pub-item {
+  margin-bottom: 1.5rem;
+  line-height: 1.55;
+}
+
+.pub-item p {
+  margin-bottom: 0;
+}
+
+.pub-item a {
+  text-decoration: none;
+}
+
+.pub-item a:hover {
+  text-decoration: underline;
+}
+
+.research-figure {
+  text-align: center;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.figure-caption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  font-style: italic;
+  margin-bottom: 2rem;
+}
