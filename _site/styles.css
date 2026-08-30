@@ -33,27 +33,28 @@
 @media (max-width: 768px) {
 
   .profile-section {
-    display: block !important;
-  }
-
-  .profile-photo,
-  .profile-text {
-    width: 100% !important;
-    max-width: 100% !important;
+    display: flex !important;
+    align-items: flex-start;
+    gap: 18px;
   }
 
   .profile-photo {
-    text-align: center;
-    margin-bottom: 24px;
+    width: 30% !important;
+    max-width: 30% !important;
+    flex: 0 0 30%;
+    text-align: left;
   }
 
   .profile-photo img {
-    width: 180px !important;
-    margin-top: 10px !important;
+    width: 100% !important;
+    max-width: 135px !important;
+    margin-top: 8px !important;
   }
 
   .profile-text {
-    padding-left: 0 !important;
-    padding-right: 0 !important;
+    width: 70% !important;
+    max-width: 70% !important;
+    flex: 1 1 70%;
+    padding: 0 !important;
   }
 }
