@@ -28,3 +28,33 @@
   font-style: italic;
   margin-bottom: 2rem;
 }
+
+/* Mobile profile layout */
+@media (max-width: 768px) {
+
+  .profile-section {
+    display: flex !important;
+    align-items: flex-start;
+    gap: 18px;
+  }
+
+  .profile-photo {
+    width: 30% !important;
+    max-width: 30% !important;
+    flex: 0 0 30%;
+    text-align: left;
+  }
+
+  .profile-photo img {
+    width: 100% !important;
+    max-width: 135px !important;
+    margin-top: 8px !important;
+  }
+
+  .profile-text {
+    width: 70% !important;
+    max-width: 70% !important;
+    flex: 1 1 70%;
+    padding: 0 !important;
+  }
+}
