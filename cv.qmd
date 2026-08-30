@@ -1,0 +1,12 @@
+---
+title: "CV"
+---
+
+You can [download my CV here](files/CV_Xinyuan_Huang_Aca.pdf).
+
+<object
+  data="files/CV_Xinyuan_Huang_Aca.pdf"
+  type="application/pdf"
+  width="100%"
+  height="1200px">
+</object>

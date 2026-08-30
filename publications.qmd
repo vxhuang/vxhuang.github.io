@@ -1,0 +1,53 @@
+---
+title: "Publications"
+toc: false
+---
+
+## Peer-Reviewed Publications
+
+::: {.pub-item}
+**6.** **Xinyuan Huang**, Jinyu Shiwang, Klaus Keller, and Wei Peng.  
+“Fine-Scale Population, Emissions, and Atmospheric Dynamics Drive Health Disparity Outcomes From Energy Transition.” *Earth’s Future 14(9),* e2025EF007767. (2026). [**https://doi.org/10.1029/2025EF007767**](https://doi.org/10.1029/2025EF007767)
+:::
+
+::: {.pub-item}
+**5.** Jinyu Shiwang, Wei Peng, **Xinyuan Huang**, Gokul Iyer, Vivek Srikrishnan, and Klaus Keller.  
+“Technology Indicators Enable Early Detection of Decarbonization Failures.” *Applied Energy 424,* 128448. (2026). [**https://doi.org/10.1016/j.apenergy.2026.128448**](https://doi.org/10.1016/j.apenergy.2026.128448)
+:::
+
+::: {.pub-item}
+**4.** **Xinyuan Huang**, Wei Peng, Alicia Zhao, Yang Ou, Shannon Kennedy, Gokul Iyer, Haewon McJeon, Yiyun Ryna Cui, and Nathan E. Hultman.  
+“Substantial Air Quality and Health Co-Benefits From Combined Federal and Subnational Climate Actions in the United States.” *One Earth 8(3),* 101232. (2025). [**https://doi.org/10.1016/j.oneear.2025.101232**](https://doi.org/10.1016/j.oneear.2025.101232)
+:::
+
+::: {.pub-item}
+**3.** Wei Peng, Susan Anenberg, John Bistline, Mark Budolfson, Sara M. Constantino, Kelly Crawford, Kenneth Davis, Peter DeCarlo, Allen Fawcett, Hayden Hashimoto, Casey Helgeson, **Xinyuan Huang**, Gokul Iyer, Klaus Keller, Harry Kennard, Kathleen M. Kennedy, Robert Laumbach, Vijay S. Limaye, Erin Mayfield, James McFarland, Michelle Meyer, Paul Miller, Andrew Place, Nicholas Roy, Christine Schell, Noah Scovronick, Steven J. Smith, Vivek Srikrishnan, Donna Vorhees, and Yuanyu Xie.  
+“Seizing the Policy Opportunities for Health- and Equity-Improving Energy Decisions.” *One Earth 8(2),* 101171. (2025). [**https://doi.org/10.1016/j.oneear.2024.12.007**](https://doi.org/10.1016/j.oneear.2024.12.007)
+:::
+
+::: {.pub-item}
+**2.** **Xinyuan Huang**, Vivek Srikrishnan, Jonathan Lamontagne, Klaus Keller, and Wei Peng.  
+“Effects of Global Climate Mitigation on Regional Air Quality and Health.” *Nature Sustainability 6(9),* 1054–1066. (2023). [**https://doi.org/10.1038/s41893-023-01133-5**](https://doi.org/10.1038/s41893-023-01133-5)
+:::
+
+::: {.pub-item}
+**1.** Hui Yang, **Xinyuan Huang**, Daniel M. Westervelt, Larry Horowitz, and Wei Peng.  
+“Socio-Demographic Factors Shaping the Future Global Health Burden From Air Pollution.” *Nature Sustainability 6(1),* 58–68. (2023). [**https://doi.org/10.1038/s41893-022-00976-8**](https://doi.org/10.1038/s41893-022-00976-8)
+:::
+
+## Other Publications
+
+::: {.pub-item}
+**3.** **Xinyuan Huang**, Alicia Zhao, Ryna Cui, and Wei Peng.  
+“Bridging Climate and Health: A Collaborative Path to Policy-Relevant Science.” *iScience 28(8),* 113050. (2025). [**https://doi.org/10.1016/j.isci.2025.113050**](https://doi.org/10.1016/j.isci.2025.113050)
+:::
+
+::: {.pub-item}
+**2.** Alicia Zhao, Ryna Cui, Carla Campos Morales, Jiaxun Sun, Wei Peng, Claire Squire, Kiara Ordonez Olazabal, Xiangjie Chen, **Xinyuan Huang**, Kuishuang Feng, Adriana Bryant, Laura Hinkle, Stephanie Vo, Michelle Faggert, Camryn Dahl, and Nathan Hultman.  
+*U.S. Clean Energy Policy Rollbacks: The Economic and Public Health Impacts Across States.* Policy report. Center for Global Sustainability, University of Maryland. (2025). [**Report**](https://cgs.umd.edu/sites/default/files/2025-06/file_CGS_US%20Clean%20Energy%20Policy%20Rollbacks_report.pdf)
+:::
+
+::: {.pub-item}
+**1.** Wei Peng, **Xinyuan Huang**, Alicia Zhao, Yang Ou, Shannon Kennedy, Gokul Iyer, Haewon McJeon, Ryna Cui, and Nate Hultman.  
+*All-In Climate Action for Improved U.S. Air Quality and Health Benefits.* Policy report. Center for Global Sustainability, University of Maryland and America Is All In. (2023). [**Report**](https://www.americaisallin.com/sites/default/files/2023-12/All-In%20Air%20Quality_Report_Dec.%203%202023.pdf)
+:::
