@@ -2,13 +2,14 @@
 title: "Xinyuan Huang (黄心远)"
 ---
 
-::: {.columns .profile-section}
+::: {.profile-section}
 
-::: {.column width="30%" .profile-photo}
-![](profile.jpg){width=230px style="margin-top: 20px;"}
-:::
+<div class="profile-photo">
+![](profile.jpg){width=230px}
+</div>
 
-::: {.column width="70%" .profile-text}
+<div class="profile-text">
+
 Hi, I am Xinyuan Huang, a postdoctoral researcher at the [Andlinger Center for Energy and the Environment](https://acee.princeton.edu) at [Princeton University](https://www.princeton.edu).
 
 I work on modeling realistic global decarbonization pathways and energy system transitions, with a focus on how regional variations shape investment in low-carbon technologies across countries. I also study how mitigation policies affect air pollution, health burdens, and health inequities under future uncertainties using integrated assessment models.
@@ -20,7 +21,8 @@ I received my PhD in [Environmental Engineering](https://www.cee.psu.edu) from [
 [GitHub](https://github.com/vxhuang) ·
 [LinkedIn](https://www.linkedin.com/in/xinyuanh/) ·
 [CV](cv.qmd)
-:::
+</div>
+
 :::
 
 ## Research Interests
