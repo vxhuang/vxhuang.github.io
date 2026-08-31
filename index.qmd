@@ -42,11 +42,17 @@ I received my PhD in [Environmental Engineering](https://www.cee.psu.edu) from [
 ::: {.pub-item}
 **Xinyuan Huang**, Wei Peng, Alicia Zhao, Yang Ou, Shannon Kennedy, Gokul Iyer, Haewon McJeon, Yiyun Ryna Cui, and Nathan E. Hultman.  
 “Substantial Air Quality and Health Co-Benefits From Combined Federal and Subnational Climate Actions in the United States.” *One Earth 8(3),* 101232. (2025). [**https://doi.org/10.1016/j.oneear.2025.101232**](https://doi.org/10.1016/j.oneear.2025.101232)
+
+- **Press coverage:** [\<The Guardian\>](https://www.theguardian.com/environment/2025/sep/05/air-pollution-deaths-us-fossil-fuels) 
+[\<Princeton News\>](https://cpree.princeton.edu/news/2025/princeton-led-study-highlights-widespread-health-co-benefits-all-society-clean-energy)
+[\<Elsevier SDG Resource Centre\>](https://sdgresources.relx.com/articles/substantial-air-quality-and-health-co-benefits-combined-federal-and-subnational-climate)
 :::
 
 ::: {.pub-item}
 **Xinyuan Huang**, Vivek Srikrishnan, Jonathan Lamontagne, Klaus Keller, and Wei Peng.  
 “Effects of Global Climate Mitigation on Regional Air Quality and Health.” *Nature Sustainability 6,* 1054–1066. (2023). [**https://doi.org/10.1038/s41893-023-01133-5**](https://doi.org/10.1038/s41893-023-01133-5)
+
+- **Press coverage:** [\<Nature Reviews Earth and Environment\>](https://doi.org/10.1038/s43017-023-00463-4) [\<Nature Sustainability\>](https://doi.org/10.1038/s41893-023-01140-6) [\<Penn State News\>](https://www.psu.edu/news/engineering/story/new-study-reveals-possible-future-health-impacts-related-climate-mitigation)
 :::
 
 [See all publications →](publications.qmd)

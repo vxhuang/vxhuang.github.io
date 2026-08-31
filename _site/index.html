@@ -184,10 +184,16 @@ ul.task-list li input[type="checkbox"] {
 <div class="pub-item">
 <p><strong>Xinyuan Huang</strong>, Wei Peng, Alicia Zhao, Yang Ou, Shannon Kennedy, Gokul Iyer, Haewon McJeon, Yiyun Ryna Cui, and Nathan E. Hultman.<br>
 “Substantial Air Quality and Health Co-Benefits From Combined Federal and Subnational Climate Actions in the United States.” <em>One Earth 8(3),</em> 101232. (2025). <a href="https://doi.org/10.1016/j.oneear.2025.101232"><strong>https://doi.org/10.1016/j.oneear.2025.101232</strong></a></p>
+<ul>
+<li><strong>Press coverage:</strong> <a href="https://www.theguardian.com/environment/2025/sep/05/air-pollution-deaths-us-fossil-fuels">&lt;The Guardian&gt;</a> <a href="https://cpree.princeton.edu/news/2025/princeton-led-study-highlights-widespread-health-co-benefits-all-society-clean-energy">&lt;Princeton News&gt;</a> <a href="https://sdgresources.relx.com/articles/substantial-air-quality-and-health-co-benefits-combined-federal-and-subnational-climate">&lt;Elsevier SDG Resource Centre&gt;</a></li>
+</ul>
 </div>
 <div class="pub-item">
 <p><strong>Xinyuan Huang</strong>, Vivek Srikrishnan, Jonathan Lamontagne, Klaus Keller, and Wei Peng.<br>
 “Effects of Global Climate Mitigation on Regional Air Quality and Health.” <em>Nature Sustainability 6,</em> 1054–1066. (2023). <a href="https://doi.org/10.1038/s41893-023-01133-5"><strong>https://doi.org/10.1038/s41893-023-01133-5</strong></a></p>
+<ul>
+<li><strong>Press coverage:</strong> <a href="https://doi.org/10.1038/s43017-023-00463-4">&lt;Nature Reviews Earth and Environment&gt;</a> <a href="https://doi.org/10.1038/s41893-023-01140-6">&lt;Nature Sustainability&gt;</a> <a href="https://www.psu.edu/news/engineering/story/new-study-reveals-possible-future-health-impacts-related-climate-mitigation">&lt;Penn State News&gt;</a></li>
+</ul>
 </div>
 <p><a href="./publications.html">See all publications →</a></p>
 </section>
@@ -273,7 +279,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/xinyuanh\.net");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
