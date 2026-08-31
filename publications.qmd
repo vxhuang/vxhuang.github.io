@@ -45,7 +45,7 @@ toc: false
 :::
 
 ::: {.pub-item}
-**1.** Jinyu Shiwang, Wei Peng, John Bistline, Jamil Farbes, **Xinyuan Huang**, Gokul Iyer, Jesse D. Jenkins, Eladio Knipping, Nicholas Mailloux, Erin Mayfield, Aranya Venkatesh, Qianru Zhu. 
+**1.** Jinyu Shiwang, Wei Peng, John Bistline, Jamil Farbes, **Xinyuan Huang**, Gokul Iyer, Jesse D. Jenkins, Eladio Knipping, Nicholas Mailloux, Erin Mayfield, Aranya Venkatesh, and Qianru Zhu. 
 “Energy technology choices shaping the air quality and health effects of a net-zero transition”. *Revise and resubmit, Environmental Science and Technology.* [**Preprint**](https://osf.io/preprints/ecsarxiv/fcgw6_v1)
 
 ## Other Publications
