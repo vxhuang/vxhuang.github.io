@@ -48,6 +48,7 @@
 
 
 /* Mobile profile layout: text wraps around photo */
+
 @media (max-width: 768px) {
 
   .profile-section {
@@ -70,6 +71,8 @@
 
   .profile-text {
     display: block;
+    font-size: 0.88rem;
+    line-height: 1.55;
   }
 
   .profile-section::after {
@@ -77,4 +80,13 @@
     display: block;
     clear: both;
   }
+
+  body {
+    font-size: 0.88rem;
+  }
+
+  .pub-item {
+    font-size: 0.88rem;
+  }
+
 }
