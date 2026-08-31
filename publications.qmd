@@ -35,6 +35,19 @@ toc: false
 “Socio-Demographic Factors Shaping the Future Global Health Burden From Air Pollution.” *Nature Sustainability 6(1),* 58–68. (2023). [**https://doi.org/10.1038/s41893-022-00976-8**](https://doi.org/10.1038/s41893-022-00976-8)
 :::
 
+## Manuscripts Under Review and Working Papers
+† Equal contribution.
+
+::: {.pub-item}
+**2.** Wei Peng†, Aniruddha Deshpande†, **Xinyuan Huang**†, Jinyu Shiwang†, Frank Errickson, Gokul Iyer, Daniel H. Loughlin, Christopher G. Nolte, Steven J. Smith, Fabian Wagner, Pengfei Wang, Jie Zhang, Mark Budolfson, and Noah Scovronick.   
+“Complex factors influencing US air pollution equity under a Net-Zero transition.” *Revise and resubmit, Nature Sustainability.* [**Preprint**](https://osf.io/preprints/ecsarxiv/v2rhb_v1/)
+
+:::
+
+::: {.pub-item}
+**1.** Jinyu Shiwang, Wei Peng, John Bistline, Jamil Farbes, **Xinyuan Huang**, Gokul Iyer, Jesse D. Jenkins, Eladio Knipping, Nicholas Mailloux, Erin Mayfield, Aranya Venkatesh, Qianru Zhu. 
+“Energy technology choices shaping the air quality and health effects of a net-zero transition”. *Revise and resubmit, Environmental Science and Technology.* [**Preprint**](https://osf.io/preprints/ecsarxiv/fcgw6_v1)
+
 ## Other Publications
 
 ::: {.pub-item}

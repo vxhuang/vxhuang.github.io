@@ -162,7 +162,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="profile-text">
 <p>Hi, I am Xinyuan Huang, a postdoctoral researcher at the <a href="https://acee.princeton.edu">Andlinger Center for Energy and the Environment</a> at <a href="https://www.princeton.edu">Princeton University</a>.</p>
 <p>I work on modeling realistic global decarbonization pathways and energy system transitions, with a focus on how regional variations shape investment in low-carbon technologies across countries. I also study how mitigation policies affect air pollution, health burdens, and health inequities under future uncertainties using integrated assessment models.</p>
-<p>I received my PhD in <a href="https://www.cee.psu.edu">Environmental Engineering</a> from <a href="https://www.psu.edu">Penn State University</a>. Prior to joining Penn State, I worked as a data scientist at SF Express, the largest logistics company in China.</p>
+<p>I received my PhD in <a href="https://www.cee.psu.edu">Environmental Engineering</a> from <a href="https://www.psu.edu">Penn State University</a> and undergraduate degrees in chemistry and economics from <a href="https://www.pku.edu.cn">Peking University</a>. Prior to joining Penn State, I worked as a data scientist at SF Express, the largest logistics company in China.</p>
 <p><a href="mailto:xinyuanh@princeton.edu">Email</a> · <a href="https://scholar.google.com/citations?user=jHD8_BcAAAAJ&amp;hl=en">Google Scholar</a> · <a href="https://github.com/vxhuang">GitHub</a> · <a href="https://www.linkedin.com/in/xinyuanh/">LinkedIn</a> · <a href="./cv.html">CV</a></p>
 </div>
 </div>
@@ -185,7 +185,7 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Xinyuan Huang</strong>, Wei Peng, Alicia Zhao, Yang Ou, Shannon Kennedy, Gokul Iyer, Haewon McJeon, Yiyun Ryna Cui, and Nathan E. Hultman.<br>
 “Substantial Air Quality and Health Co-Benefits From Combined Federal and Subnational Climate Actions in the United States.” <em>One Earth 8(3),</em> 101232. (2025). <a href="https://doi.org/10.1016/j.oneear.2025.101232"><strong>https://doi.org/10.1016/j.oneear.2025.101232</strong></a></p>
 <ul>
-<li><strong>Press coverage:</strong> <a href="https://www.theguardian.com/environment/2025/sep/05/air-pollution-deaths-us-fossil-fuels">&lt;The Guardian&gt;</a> <a href="https://cpree.princeton.edu/news/2025/princeton-led-study-highlights-widespread-health-co-benefits-all-society-clean-energy">&lt;Princeton News&gt;</a> <a href="https://sdgresources.relx.com/articles/substantial-air-quality-and-health-co-benefits-combined-federal-and-subnational-climate">&lt;Elsevier SDG Resource Centre&gt;</a></li>
+<li><strong>Press coverage:</strong> <a href="https://www.theguardian.com/environment/2025/sep/05/air-pollution-deaths-us-fossil-fuels">&lt;The Guardian&gt;</a> <a href="https://cpree.princeton.edu/news/2025/princeton-led-study-highlights-widespread-health-co-benefits-all-society-clean-energy">&lt;Princeton News&gt;</a></li>
 </ul>
 </div>
 <div class="pub-item">
@@ -279,7 +279,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/xinyuanh\.net");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

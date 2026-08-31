@@ -14,7 +14,7 @@ Hi, I am Xinyuan Huang, a postdoctoral researcher at the [Andlinger Center for E
 
 I work on modeling realistic global decarbonization pathways and energy system transitions, with a focus on how regional variations shape investment in low-carbon technologies across countries. I also study how mitigation policies affect air pollution, health burdens, and health inequities under future uncertainties using integrated assessment models.
 
-I received my PhD in [Environmental Engineering](https://www.cee.psu.edu) from [Penn State University](https://www.psu.edu). Prior to joining Penn State, I worked as a data scientist at SF Express, the largest logistics company in China.
+I received my PhD in [Environmental Engineering](https://www.cee.psu.edu) from [Penn State University](https://www.psu.edu) and undergraduate degrees in chemistry and economics from [Peking University](https://www.pku.edu.cn). Prior to joining Penn State, I worked as a data scientist at SF Express, the largest logistics company in China.
 
 [Email](mailto:xinyuanh@princeton.edu) ·
 [Google Scholar](https://scholar.google.com/citations?user=jHD8_BcAAAAJ&hl=en) ·
