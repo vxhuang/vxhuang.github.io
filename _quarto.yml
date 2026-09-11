@@ -5,7 +5,7 @@ project:
 
 website:
   title: "Xinyuan Huang"
-  favicon: favicon.ico
+  favicon: images/favicon-32x32.png
   navbar:
     left:
       - href: index.qmd
