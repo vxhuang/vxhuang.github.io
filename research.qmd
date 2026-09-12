@@ -7,11 +7,11 @@ title: "Research"
 toc: false
 ---
 
-## Regional Variation in Energy Investment
+## Regional Variations in Energy Investment
 
 ### Improving the Representation of Regional Variation in Energy Investments for More Realistic Modeling of Global Decarbonization Pathways
 
-Integrated assessment models often rely on technology assumptions that mask important regional differences in investment conditions. In this project, we update GCAM assumptions for 32 world regions and seven low-carbon technologies to better reflect variation in financing conditions, technology and construction costs, operational performance, and resource availability.
+Integrated assessment models often rely on technology assumptions that mask important regional differences in investment conditions. In this project, we update [GCAM](https://jgcri.github.io/gcam-doc/index.html) assumptions for 32 world regions and seven low-carbon technologies to better reflect variation in financing conditions, technology and construction costs, operational performance, and resource availability.
 
 By incorporating these regional differences systematically, this work examines how local investment conditions reshape technology deployment, alter mitigation costs, and change the allocation of global decarbonization efforts.
 
@@ -25,7 +25,6 @@ By incorporating these regional differences systematically, this work examines h
 Conceptual framework linking regionally varying investment conditions to energy investment and decarbonization outcomes.
 </p>
 
-## Carbon Storage Bottlenecks and Deep Decarbonization
 
 ### Carbon Storage Bottlenecks Reshape Modeled Deep Decarbonization Pathways
 
@@ -33,8 +32,9 @@ Deep decarbonization scenarios often rely on rapid expansion of low-carbon techn
 
 In this project, we incorporate regionally differentiated deployment growth constraints for wind, solar, and CCS into GCAM to examine how technology speed limits reshape global decarbonization pathways. Attribution scenarios are used to identify which constraints matter most and how their effects differ across regions.
 
-A central focus is CCS. Because CCS deployment depends not only on capture technology, but also on CO₂ transport networks, storage characterization, injection capacity, regulation, and infrastructure development, limits on the pace of CCS expansion can have system-wide consequences. The analysis examines how constrained CCS deployment changes technology substitution, regional investment patterns, mitigation costs, and the broader allocation of mitigation efforts.
+A central focus is CCS. Because CCS deployment depends not only on capture technology, but also on CO<sub>2</sub> transport networks, storage characterization, injection capacity, regulation, and infrastructure development, limits on the pace of CCS expansion can have system-wide consequences. The analysis examines how constrained CCS deployment changes technology substitution, regional investment patterns, mitigation costs, and the broader allocation of mitigation efforts.
 
+<!--
 <div class="research-figure">
 
 ![](images/project2_growth_constraints.png){width=78%}
@@ -46,3 +46,4 @@ Conceptual framework linking deployment headwinds and regionally differentiated 
 </p>
 
 We also compare constrained CCS deployment with scenarios assessed in the IPCC Sixth Assessment Report to evaluate how strongly existing mitigation pathways depend on rapid CCS scale-up, particularly in regions where current deployment remains limited.
+-->

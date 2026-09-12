@@ -90,3 +90,18 @@
   }
 
 }
+
+.back-to-top-container {
+  text-align: right;
+  margin-top: 2.5rem;
+}
+
+.back-to-top {
+  text-decoration: none;
+  font-size: 0.85rem;
+  color: #666;
+}
+
+.back-to-top:hover {
+  text-decoration: underline;
+}

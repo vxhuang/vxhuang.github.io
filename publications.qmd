@@ -4,6 +4,10 @@ toc: false
 ---
 
 ## Peer-Reviewed Publications
+::: {.pub-item}
+**7.** Jinyu Shiwang, Wei Peng, John Bistline, Jamil Farbes, **Xinyuan Huang**, Gokul Iyer, Jesse D. Jenkins, Eladio Knipping, Nicholas Mailloux, Erin Mayfield, Aranya Venkatesh, Alicia Zhao, and Qianru Zhu.  
+“Energy technology choices shaping the air quality and health effects of a net-zero transition”. *Forthcoming, Environmental Science & Technology.* (2026). [**https://doi.org/10.1021/acs.est.6c02914**](https://doi.org/10.1021/acs.est.6c02914)
+:::
 
 ::: {.pub-item}
 **6.** **Xinyuan Huang**, Jinyu Shiwang, Klaus Keller, and Wei Peng.  
@@ -39,17 +43,12 @@ toc: false
 † Equal contribution.
 
 ::: {.pub-item}
-**3.** Wei Peng†, Aniruddha Deshpande†, **Xinyuan Huang**†, Jinyu Shiwang†, Frank Errickson, Gokul Iyer, Daniel H. Loughlin, Christopher G. Nolte, Steven J. Smith, Fabian Wagner, Pengfei Wang, Jie Zhang, Mark Budolfson, and Noah Scovronick.   
+**2.** Wei Peng†, Aniruddha Deshpande†, **Xinyuan Huang**†, Jinyu Shiwang†, Frank Errickson, Gokul Iyer, Daniel H. Loughlin, Christopher G. Nolte, Steven J. Smith, Fabian Wagner, Pengfei Wang, Jie Zhang, Mark Budolfson, and Noah Scovronick.   
 “Complex factors influencing US air pollution equity under a Net-Zero transition.” *Revise and resubmit, Nature Sustainability.* [**Preprint**](https://osf.io/preprints/ecsarxiv/v2rhb_v1/)
 :::
 
 ::: {.pub-item}
-**2.** Jinyu Shiwang, Wei Peng, John Bistline, Jamil Farbes, **Xinyuan Huang**, Gokul Iyer, Jesse D. Jenkins, Eladio Knipping, Nicholas Mailloux, Erin Mayfield, Aranya Venkatesh, and Qianru Zhu. 
-“Energy technology choices shaping the air quality and health effects of a net-zero transition”. *Forthcoming, Environmental Science & Technology.* [**Preprint**](https://osf.io/preprints/ecsarxiv/fcgw6_v1)
-:::
-
-::: {.pub-item}
-**1.** Evan Erickson, **Xinyuan Huang**, Chris Greig, Eric Larson, and Wei Peng. 
+**1.** Evan Erickson, **Xinyuan Huang**, Chris Greig, Eric Larson, and Wei Peng.  
 "Modeling the Effects of 'Speed Limits' to Low-Carbon Technology Deployment on Multisector Energy System Decarbonization" *In preparation, One Earth*
 :::
 
