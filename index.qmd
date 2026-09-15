@@ -27,7 +27,7 @@ I received my PhD in [Environmental Engineering](https://www.cee.psu.edu) from [
 
 ## Research Interests
 
-- Energy systems and integrated assessment modeling
+- Energy systems and integrated assessment modeling 
 - Air pollution and health impacts
 - Environmental justice
 - Realistic modeling of decarbonization
