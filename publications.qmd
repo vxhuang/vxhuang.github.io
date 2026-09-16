@@ -6,7 +6,7 @@ toc: false
 ## Peer-Reviewed Publications
 ::: {.pub-item}
 **7.** Jinyu Shiwang, Wei Peng, John Bistline, Jamil Farbes, **Xinyuan Huang**, Gokul Iyer, Jesse D. Jenkins, Eladio Knipping, Nicholas Mailloux, Erin Mayfield, Aranya Venkatesh, Alicia Zhao, and Qianru Zhu.  
-“Energy technology choices shaping the air quality and health effects of a net-zero transition”. *Forthcoming, Environmental Science & Technology.* (2026). [**https://doi.org/10.1021/acs.est.6c02914**](https://doi.org/10.1021/acs.est.6c02914)
+“Energy Technology Choices Shaping the Air Quality and Health Effects of a Net-Zero Transition.” *Forthcoming, Environmental Science & Technology.* (2026). [**https://doi.org/10.1021/acs.est.6c02914**](https://doi.org/10.1021/acs.est.6c02914)
 :::
 
 ::: {.pub-item}
@@ -44,17 +44,17 @@ toc: false
 
 ::: {.pub-item}
 **3.** Wei Peng†, Aniruddha Deshpande†, **Xinyuan Huang**†, Jinyu Shiwang†, Frank Errickson, Gokul Iyer, Daniel H. Loughlin, Christopher G. Nolte, Steven J. Smith, Fabian Wagner, Pengfei Wang, Jie Zhang, Mark Budolfson, and Noah Scovronick.  
-“Complex factors influencing US air pollution equity under a Net-Zero transition.” *Revise and resubmit, Nature Sustainability.* [**Preprint**](https://osf.io/preprints/ecsarxiv/v2rhb_v1/)
+“Complex Factors Influencing US Air Pollution Equity Under a Net-Zero Transition.” *Revise and resubmit, Nature Sustainability.* [**Preprint**](https://osf.io/preprints/ecsarxiv/v2rhb_v1/)
 :::
 
 ::: {.pub-item}
 **2.** Evan Erickson, **Xinyuan Huang**, Chris Greig, Eric Larson, and Wei Peng.  
-"Modeling the Effects of 'Speed Limits' to Low-Carbon Technology Deployment on Multisector Energy System Decarbonization" *In preparation, One Earth*
+"Modeling the Effects of 'Speed Limits' to Low-Carbon Technology Deployment on Multisector Energy System Decarbonization." *In preparation, One Earth*
 :::
 
 ::: {.pub-item}
 **1.** Carla Campos, Yueqi Jiang, Kerem Ziya Akdemir, **Xinyuan Huang**, Dan Loughlin, Kendall Mongrid, Jennie Rice, Nathalie Voisin, and Wei Peng.  
-“Impacts of fine-resolution power system decisions on future air quality and health: A test case on the Western US.” *In preparation, Environmental Science & Technology*
+“Impacts of Fine-Resolution Power System Decisions on Future Air Quality and Health: A Test Case in the Western US.” *In preparation, Environmental Science & Technology*
 :::
 
 ## Other Publications
