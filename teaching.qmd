@@ -1,0 +1,21 @@
+---
+title: "Teaching"
+toc: false
+---
+
+## Teaching Interests
+
+- Coupled human–Earth systems
+- Integrated assessment modeling for climate and energy policy
+- Quantitative methods for environmental and social sciences
+- Decision-making under uncertainty and scenario analysis
+
+## Teaching Approach
+
+My teaching interests focus on connecting quantitative methods with real-world environmental and policy questions. I am particularly interested in teaching how mathematical models, data analysis, and scenario-based reasoning can be used to study complex human–Earth systems and inform decision-making under uncertainty. I also value a balance of conceptual understanding, computational practice, and applied problem solving, with examples drawn from climate, energy, environmental health, and public policy.
+
+## Teaching Experience
+
+Teaching Assistant, **CE 371: Water and Wastewater Treatment** (Professor Fred Cannon), Fall 2019, Penn State University  
+Teaching Assistant, **CE 371: Water and Wastewater Treatment** (Professor Bruce Logan), Fall 2021, Penn State University  
+Guest Lecturer, **CE 597: Energy-Environment Nexus** (Professor Wei Peng), Fall 2023, Penn State University
