@@ -6,7 +6,7 @@ toc: false
 ## Peer-Reviewed Publications
 ::: {.pub-item}
 **7.** Jinyu Shiwang, Wei Peng, John Bistline, Jamil Farbes, **Xinyuan Huang**, Gokul Iyer, Jesse D. Jenkins, Eladio Knipping, Nicholas Mailloux, Erin Mayfield, Aranya Venkatesh, Alicia Zhao, and Qianru Zhu.  
-“Energy Technology Choices Shaping the Air Quality and Health Effects of a Net-Zero Transition.” *Forthcoming, Environmental Science & Technology.* (2026). [**https://doi.org/10.1021/acs.est.6c02914**](https://doi.org/10.1021/acs.est.6c02914)
+“Energy Technology Choices Shaping the Air Quality and Health Effects of a Net-Zero Transition.” *Environmental Science & Technology.* (2026). [**https://doi.org/10.1021/acs.est.6c02914**](https://doi.org/10.1021/acs.est.6c02914)
 :::
 
 ::: {.pub-item}
