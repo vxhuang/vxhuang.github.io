@@ -35,6 +35,34 @@
     "text": "Beyond Research\nOutside of work, I enjoy classical music, road trips, and some card games.\nI am married to Ziyao Tian, a sociologist studying education, inequality, and social stratification.\n\n↑ Top"
   },
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Coupled human–Earth systems\nIntegrated assessment modeling for climate and energy policy\nQuantitative methods for environmental and social sciences\nDecision-making under uncertainty and scenario analysis"
+  },
+  {
+    "objectID": "teaching.html#teaching-interests",
+    "href": "teaching.html#teaching-interests",
+    "title": "Teaching",
+    "section": "",
+    "text": "Coupled human–Earth systems\nIntegrated assessment modeling for climate and energy policy\nQuantitative methods for environmental and social sciences\nDecision-making under uncertainty and scenario analysis"
+  },
+  {
+    "objectID": "teaching.html#teaching-approach",
+    "href": "teaching.html#teaching-approach",
+    "title": "Teaching",
+    "section": "Teaching Approach",
+    "text": "Teaching Approach\nMy teaching interests focus on connecting quantitative methods with real-world environmental and policy questions. I am particularly interested in teaching how mathematical models, data analysis, and scenario-based reasoning can be used to study complex human–Earth systems and inform decision-making under uncertainty. I also value a balance of conceptual understanding, computational practice, and applied problem solving, with examples drawn from climate, energy, environmental health, and public policy."
+  },
+  {
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Teaching",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\nTeaching Assistant — CE 371: Water and Wastewater Treatment (Professor Fred Cannon)\nPenn State University · Fall 2019\nTeaching Assistant — CE 371: Water and Wastewater Treatment (Professor Bruce Logan)\nPenn State University · Fall 2021\nGuest Lecturer — CE 597: Energy–Environment Nexus (Professor Wei Peng)\nPenn State University · Fall 2023"
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -75,33 +103,5 @@
     "title": "Publications",
     "section": "Other Publications",
     "text": "Other Publications\n\n3. Xinyuan Huang, Alicia Zhao, Ryna Cui, and Wei Peng.\n“Bridging Climate and Health: A Collaborative Path to Policy-Relevant Science.” iScience 28(8), 113050. (2025). https://doi.org/10.1016/j.isci.2025.113050\n\n\n2. Alicia Zhao, Ryna Cui, Carla Campos Morales, Jiaxun Sun, Wei Peng, Claire Squire, Kiara Ordonez Olazabal, Xiangjie Chen, Xinyuan Huang, Kuishuang Feng, Adriana Bryant, Laura Hinkle, Stephanie Vo, Michelle Faggert, Camryn Dahl, and Nathan Hultman.\nU.S. Clean Energy Policy Rollbacks: The Economic and Public Health Impacts Across States. Policy report. Center for Global Sustainability, University of Maryland. (2025). Report\n\n\n1. Wei Peng, Xinyuan Huang, Alicia Zhao, Yang Ou, Shannon Kennedy, Gokul Iyer, Haewon McJeon, Ryna Cui, and Nate Hultman.\nAll-In Climate Action for Improved U.S. Air Quality and Health Benefits. Policy report. Center for Global Sustainability, University of Maryland and America Is All In. (2023). Report"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Coupled human–Earth systems\nIntegrated assessment modeling for climate and energy policy\nQuantitative methods for environmental and social sciences\nDecision-making under uncertainty and scenario analysis"
-  },
-  {
-    "objectID": "teaching.html#teaching-interests",
-    "href": "teaching.html#teaching-interests",
-    "title": "Teaching",
-    "section": "",
-    "text": "Coupled human–Earth systems\nIntegrated assessment modeling for climate and energy policy\nQuantitative methods for environmental and social sciences\nDecision-making under uncertainty and scenario analysis"
-  },
-  {
-    "objectID": "teaching.html#teaching-experience",
-    "href": "teaching.html#teaching-experience",
-    "title": "Teaching",
-    "section": "Teaching Experience",
-    "text": "Teaching Experience\nTeaching Assistant, CE 371: Water and Wastewater Treatment (Professor Fred Cannon), Fall 2019, Penn State University\nTeaching Assistant, CE 371: Water and Wastewater Treatment (Professor Bruce Logan), Fall 2021, Penn State University\nGuest Lecturer, CE 597: Energy-Environment Nexus (Professor Wei Peng), Fall 2023, Penn State University"
-  },
-  {
-    "objectID": "teaching.html#teaching-approach",
-    "href": "teaching.html#teaching-approach",
-    "title": "Teaching",
-    "section": "Teaching Approach",
-    "text": "Teaching Approach\nMy teaching interests focus on connecting quantitative methods with real-world environmental and policy questions. I am particularly interested in teaching how mathematical models, data analysis, and scenario-based reasoning can be used to study complex human–Earth systems and inform decision-making under uncertainty. I also value a balance of conceptual understanding, computational practice, and applied problem solving, with examples drawn from climate, energy, environmental health, and public policy."
   }
 ]
