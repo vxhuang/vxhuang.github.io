@@ -6,15 +6,10 @@ toc: false
 ## Peer-Reviewed Publications
 <!---
 † Equal contribution.
-
-::: {.pub-item}
-**8.** Wei Peng†, Aniruddha Deshpande†, **Xinyuan Huang**†, Jinyu Shiwang†, Frank Errickson, Gokul Iyer, Daniel H. Loughlin, Christopher G. Nolte, Steven J. Smith, Fabian Wagner, Pengfei Wang, Jie Zhang, Mark Budolfson, and Noah Scovronick.  
-“Complex Factors Influencing US Air Pollution Equity Under a Net-Zero Transition.” *Revise and resubmit, Nature Sustainability.* [**Preprint**](https://osf.io/preprints/ecsarxiv/v2rhb_v1/){target="_blank"}
-:::
 --->
 ::: {.pub-item}
 **7.** Jinyu Shiwang, Wei Peng, John Bistline, Jamil Farbes, **Xinyuan Huang**, Gokul Iyer, Jesse D. Jenkins, Eladio Knipping, Nicholas Mailloux, Erin Mayfield, Aranya Venkatesh, Alicia Zhao, and Qianru Zhu.  
-“A Multi-Model Assessment of the Air Quality and Health Impacts of U.S. Energy Decarbonization.” *Environmental Science & Technology.* (2026). [**https://doi.org/10.1021/acs.est.6c02914**](https://doi.org/10.1021/acs.est.6c02914){target="_blank"}
+“A Multi-Model Assessment of the Air Quality and Health Impacts of U.S. Energy Decarbonization.” *Environmental Science & Technology 60(38),* 27063–27078. (2026). [**https://doi.org/10.1021/acs.est.6c02914**](https://doi.org/10.1021/acs.est.6c02914){target="_blank"}
 :::
 
 ::: {.pub-item}
@@ -62,7 +57,7 @@ toc: false
 
 ::: {.pub-item}
 **1.** Carla Campos, Yueqi Jiang, Kerem Ziya Akdemir, **Xinyuan Huang**, Dan Loughlin, Kendall Mongrid, Jennie Rice, Nathalie Voisin, and Wei Peng.  
-“Impacts of Fine-Resolution Power System Decisions on Future Air Quality and Health: A Test Case in the Western US.” *In preparation, Environmental Science & Technology*
+“Impacts of Fine-Scale Power-Plant Siting and Dispatch Decisions on Future Air Quality in the Western United States” *In preparation, Environmental Science & Technology*
 :::
 
 ## Other Publications
