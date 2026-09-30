@@ -27,3 +27,6 @@ format:
       - brand
     css: styles.css
     toc: true
+    include-in-header:
+      text: |
+        <meta name="format-detection" content="telephone=no">
