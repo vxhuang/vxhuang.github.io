@@ -47,7 +47,7 @@ toc: false
 
 ::: {.pub-item}
 **3.** Wei Peng†, Aniruddha Deshpande†, **Xinyuan Huang**†, Jinyu Shiwang†, Frank Errickson, Gokul Iyer, Daniel H. Loughlin, Christopher G. Nolte, Steven J. Smith, Fabian Wagner, Pengfei Wang, Jie Zhang, Mark Budolfson, and Noah Scovronick.  
-“Complex Factors Influencing US Air Pollution Equity Under a Net-Zero Transition.” *Revise and resubmit, Nature Sustainability.* [**Preprint**](https://osf.io/preprints/ecsarxiv/v2rhb_v1/){target="_blank"}
+“Complex Factors Influencing US Air Pollution Equity Under a Net-Zero Transition.” *Revise and resubmit, Nature Sustainability.* [**Preprint**](https://www.researchgate.net/publication/384765743_Complexities_in_achieving_air_pollution-related_equity_goals_through_a_net-zero_transition_in_the_United_States){target="_blank"}
 :::
 
 ::: {.pub-item}
